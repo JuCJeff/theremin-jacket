@@ -54,7 +54,7 @@ Junda Chen, Jeff Ma, Yudong Huang, William Black
 
 ## Image/Video
 
-![Leap Motion Sensing Spectrum](./assets/Leap Motion Sensing Spectrum.png)
+![Leap Motion Sensing Spectrum](assets/Leap Motion Sensing Spectrum.png)
 
 
 
