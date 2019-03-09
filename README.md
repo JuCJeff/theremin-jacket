@@ -1,4 +1,8 @@
-# Project Post 2
+# Project Post 2 
+
+`@Postdate: Mar 9th (Sat)`
+
+
 
 ## Project Title
 
@@ -32,7 +36,8 @@ Junda Chen, Jeff Ma, Yudong Huang, William Black
 
 ## Weekly Accomplishments
 
-- [x] Setup sonar sensor tracking in Arduino Mega. Build a 
+- [x] Setup sonar sensor tracking in Arduino Mega.
+- [x] Use sonar sensor to build a prototypical MIDI device.
 - [x] Leap Motion Mechanism
   - [x] How leap motion works, Accuracy, General application
   - [x] HW and SW. Compatilibility to IoT Devicess
@@ -41,8 +46,9 @@ Junda Chen, Jeff Ma, Yudong Huang, William Black
   - [ ] Motion trace: proximity and height change
   - [ ] Data Transfer and MIDI encode/decode
   - [ ] Run on Arduino/Raspberry pi
-  - [ ] (Optimization) De-noise 
-- [ ] Design clothes
+  - [ ] (Optimization) De-noise.
+- [ ] Select a jacket.
+- [ ] Design the jacket.
 
 
 
@@ -61,6 +67,8 @@ In search for potential improvement of gesture recognition, we also focus our at
 
 
 ## Material list
+
+
 
 - [ ] Circuit Board: (Potentially) MIDI encode/decoder, Leap motion image processor, 
   - [ ] ~~Arduion (1):~~
