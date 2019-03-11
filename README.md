@@ -94,3 +94,10 @@ In search for potential improvement of gesture recognition, we also focus our at
 
 Leap Motion installation: Trouble shooting in Windows.
 
+Stability and range: Use distant infrared LED to increase light detection stability in distance thus increase range.
+
+Potentially position Leap Motion in one side of chest to achieve proper motion detection
+
+Testing: Can us v from horizontal mode to VR mode
+
+Design idea: infrared light and visible light design and position
